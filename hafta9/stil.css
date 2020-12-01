@@ -1,0 +1,43 @@
+/*
+css comment satırı
+*/
+
+
+h1{
+    /*
+    color tanımlanan etiket içerisindeki metnin rengini
+    değiştirmekte kullanılır.
+    */
+    color: aqua; 
+    text-align: center;
+}
+/*
+id tanımlama 
+css sayfasında # başa konularak bir id verilir.
+html sayfasındaki id özelliğine bu değer başına kare
+konulmadan yazıldığında tanımlanan css görüntülenir.
+*/
+
+#banner{
+    color: blue;
+    font-size: 18px;
+}
+
+#menu{
+    color: red;
+}
+
+/*
+sınıf tanımlama
+css sayfasında başa . konularak bir sinif ismi tanımlanır.
+html sayfasında ise class özelliğine noktasız olarak
+sınıf ismi yazıldığında tanımlanan stiller o elemanda 
+görüntülenir
+*/
+
+.sariyazi{
+    font-size: 20px;
+   color: yellow; 
+}
+
+
